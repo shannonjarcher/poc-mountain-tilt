@@ -1,0 +1,9 @@
+# working files, not part of the site
+shots/
+BRIEF.md
+reference.png
+assets/evolution.jpg
+
+# never commit secrets or OS junk
+.env*
+.DS_Store
